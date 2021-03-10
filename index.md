@@ -3,6 +3,8 @@
 An emacs color theme, based on the popular VScode synthwave84 color scheme. Originally based on <https://github.com/artanikin/vim-synthwave84>, artanikin's vim port of said color scheme.
 
 ## Screenshots
+![Javascript Screenshot](/screen_2.png)
+![C Screenshot](/screen_1.png)
 
 ## Installation (manual)
 Extract the file to your 'custom-theme-load-path', which is accessible through emacs through the variable of the same name.
