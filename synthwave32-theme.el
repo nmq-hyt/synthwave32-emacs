@@ -33,7 +33,7 @@
   "A theme similar to synthwave84, from vscode.")
 
 (custom-theme-set-faces
- 'synthwave84
+ 'synthwave32
  '(default ((t (:inherit nil :stipple nil :background "#262335" :foreground "#ECEBED" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :slant normal :weight normal :height 98 :width normal :foundry "PfEd" :family "DejaVu Sans Mono"))))
  '(cursor ((t (:background "#2C2540" :foreground "#ECEBED" :inverse-video t))))
  '(fixed-pitch ((t (:family "Monospace"))))
@@ -79,4 +79,4 @@
  '(next-error ((t (:inherit (region)))))
  '(query-replace ((t (:inherit (isearch))))))
 
-(provide-theme 'synthwave84)
+(provide-theme 'synthwave32)
