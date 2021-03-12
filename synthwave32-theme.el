@@ -27,9 +27,7 @@
 ;; This theme was based on artanikin's vim port of the popular synthwave84 VS code scheme <https://github.com/artanikin/vim-sytnhwave84>
 
 
-
-
-(deftheme synthwave322
+(deftheme synthwave32
   "A theme similar to synthwave84, from vscode.")
 
 (custom-theme-set-faces
